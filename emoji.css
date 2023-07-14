@@ -1,0 +1,84 @@
+body{
+  background: radial-gradient(red,skyblue);
+  color:black;
+  
+}
+
+.head{
+  height:250px;
+  width:250px;
+  border-radius:50%;
+  background:yellow;
+  margin:auto;
+  position:relative;
+  margin-top:10%;
+  
+}
+.eye1{
+   height:40px;
+   width:40px;
+   border-radius:40%;
+   background: rgb(250, 249, 249);
+   position:absolute;
+   top:65px;
+   left:40px;
+}
+.eye2{
+  height:40px;
+  width:40px;
+  border-radius:40% ;
+  background:rgb(252, 249, 249) ;
+  position:absolute;
+  top:65px;
+  left:160px;
+}
+.mouth{
+  height:40px;
+  width:70px;
+  border-radius:80% ;
+  background:rgb(88, 6, 6) ;
+  position:absolute;
+  top:160px;
+  left:90px;
+}.e1{
+  height:15px;
+  width:15px;
+  border-radius:20%;
+  background:black;
+  position:absolute;
+  top:10px;
+  left:12px;
+}
+.e2{
+  height:15px;
+  width:15px;
+  border-radius:20%;
+  background:black;
+  position:absolute;
+  top:10px;
+  left:12px;
+}
+.ear1{
+  height:45px;
+  width:30px;
+  border-radius:100%;
+  background:yellow;
+  position:absolute;
+  bottom:20px;
+  top:5px;
+  left:10px;
+  right:5px;
+}
+.ear2{
+  height:45px;
+  width:30px;
+  border-radius:100%;
+  background:yellow;
+  position:absolute;
+  left:200px;
+  
+}
+
+
+
+
